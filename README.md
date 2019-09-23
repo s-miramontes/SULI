@@ -1,6 +1,6 @@
 # SULI Spring 2019 
 
-Project: Computer Vision for the Characterization of Fibers in Material Design
+## Project: Computer Vision for the Characterization of Fibers in Material Design
 
 Abstract: 
 
